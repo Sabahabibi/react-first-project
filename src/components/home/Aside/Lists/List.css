@@ -1,0 +1,7 @@
+.lists {
+  display: flex;
+  flex-direction: column;
+}
+li::marker {
+  font-size: 28px;
+}

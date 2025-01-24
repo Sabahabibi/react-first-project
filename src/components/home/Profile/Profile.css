@@ -1,0 +1,7 @@
+.user {
+  width: 30px;
+}
+.profileContainer {
+  display: flex;
+  gap: 10px;
+}
