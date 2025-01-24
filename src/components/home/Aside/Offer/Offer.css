@@ -1,0 +1,14 @@
+.offer {
+  background-color: rgb(145, 145, 145);
+  width: 8rem;
+  height: 9rem;
+}
+.offerText {
+  font-size: 36px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 8rem;
+  transform: rotate(-45deg);
+}
